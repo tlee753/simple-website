@@ -1,2 +1,2 @@
-# simple-website
-Barebones personal website to teach basic html/css
+# laurenlee.me
+laurenlee's personal website
