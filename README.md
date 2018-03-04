@@ -1,2 +1,2 @@
-# laurenlee.me
-laurenlee's personal website
+# Simple Website
+bare minimum website as an example/tutorial for people learning webdev
