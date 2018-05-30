@@ -2,7 +2,7 @@
 bare minimum website as an example/tutorial for people learning webdev
 
 ### Demo
-Click [here](tlee753.com/simple-website) for a demo of the end result!
+Click [here](http://tlee753.com/simple-website) for a demo of the end result!
 
 ### Files
 - `index.html` the "skeleton" of the website, this is the landing page and text data of what your website contains
