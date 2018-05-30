@@ -3,6 +3,7 @@ bare minimum website as an example/tutorial for people learning webdev
 
 ### Demo
 Click [here](http://tlee753.com/simple-website) for a demo of the end result!
+
 ![Simple Website Demo](/assets/simple-website-demo.png)
 
 ### Files
